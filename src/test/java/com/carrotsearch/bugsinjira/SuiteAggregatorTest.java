@@ -9,7 +9,7 @@ import org.junit.runners.Suite;
 @Suite.SuiteClasses(
 {
     SuiteAggregatorTest.Test1.class,
-    SuiteAggregatorTest.Test2.class,
+    SuiteAggregatorTest.Test2.class
 })
 public class SuiteAggregatorTest
 {
